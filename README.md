@@ -1,2 +1,5 @@
 # BCCMCommunity-NGSPipelines
-All about NGS Pipelines developed by BCMM Community members
+
+A repository that includes information on available NGS pipelines developed by Benioff Center for Microbiome Medicime (BCMM) community members.
+
+Please refer to the `repo` [Wiki](https://github.com/Benioff-Center-for-Microbiome-Medicine/BCCMCommunity-NGSPipelines/Wiki) page for deatil.
